@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.softxpert"
+    namespace = "com.example.mazaadyTask"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.softxpert"
+        applicationId = "com.example.mazaadyTask"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
